@@ -1,0 +1,13 @@
+{
+  "name": "star_files",
+  "version": "0.0.0",
+  "description": "*Files- Where you're the star :3",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
